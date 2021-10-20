@@ -1,0 +1,9 @@
+{
+  "name": "webcam-test-wails",
+  "outputfilename": "webcam-test-wails",
+  "assetdir": "frontend/dist",
+  "author": {
+    "name": "yingchaojie",
+    "email": "yingchaojie@163.com"
+  }
+}
